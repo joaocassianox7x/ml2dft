@@ -6,8 +6,13 @@ ML-DFT is a combination of various deep learning models which predict various pr
 ML-DFT can be used to predict the electronic structure from classical MD simulations of structures too large for DFT. Additionally, it can be used to perform structure search where energy minimization is required. Future additions will allow for MD simulations within the same toolkit.
 
 ## Contributors
+### Original developers:
 * Beatriz Gonzalez del Rio (brio3@gatech.edu)
 * Rampi Ramprasad
+
+### This 'fork'
+* João Victor Vilela Cassiano
+* Marcel V. Arruda
 
 ## License & copyright
 Ramprasad Group, Georgia Tech, USA
